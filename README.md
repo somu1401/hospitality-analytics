@@ -21,7 +21,7 @@ This project focuses on analyzing hotel booking data to understand business perf
 
 ### 2. Weekly and Day-wise Fluctuations
 
-![Weekly and Day-wise Dashboard](YOUR_SECOND_SCREENSHOT_PATH)
+![Weekly and Day-wise Dashboard](./weekly-trends.png)
 
 
 ## 🛠️ Tools Used
