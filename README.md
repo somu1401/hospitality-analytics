@@ -12,6 +12,18 @@ This project focuses on analyzing hotel booking data to understand business perf
 - Identify revenue leakage.
 - Compare hotel performance across cities and properties.
 
+
+## 📸 Dashboard Preview
+
+### 1. Booking Performance and Revenue Leakage
+
+![Booking Performance Dashboard](./booking-performance.png)
+
+### 2. Weekly and Day-wise Fluctuations
+
+![Weekly and Day-wise Dashboard](YOUR_SECOND_SCREENSHOT_PATH)
+
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel
